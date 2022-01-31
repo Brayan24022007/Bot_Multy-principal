@@ -1,0 +1,23 @@
+{
+  "name": "Bot_Multy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "canvacord": "^5.2.3",
+    "discord-xp": "^1.1.16",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "ping-monitor": "^0.6.1",
+    "quick.db": "^7.1.3"
+  }
+}
